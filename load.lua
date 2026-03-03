@@ -3,6 +3,10 @@ local Games = {
         Name = "[🐔] Massacre",
         Script = "https://raw.githubusercontent.com/gregs1337/neverhub/refs/heads/main/massacre-obfuscated.lua",
     },
+    [136801880565837] = {
+        Name = "[FPS] Flick",
+        Script = "https://raw.githubusercontent.com/gregs1337/neverhub/refs/heads/main/flick.lua",
+    },
 }
 
 local placeId = game.PlaceId
